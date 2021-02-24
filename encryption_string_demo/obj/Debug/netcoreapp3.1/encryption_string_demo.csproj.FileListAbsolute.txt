@@ -1,0 +1,13 @@
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.exe
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.deps.json
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.runtimeconfig.json
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.runtimeconfig.dev.json
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.dll
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\bin\Debug\netcoreapp3.1\encryption_string_demo.pdb
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.csprojAssemblyReference.cache
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.AssemblyInfoInputs.cache
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.AssemblyInfo.cs
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.csproj.CoreCompileInputs.cache
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.dll
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.pdb
+C:\Users\dvandenbosch\Desktop\repos\tand_repos\encryption_string_demo\encryption_string_demo\obj\Debug\netcoreapp3.1\encryption_string_demo.genruntimeconfig.cache
